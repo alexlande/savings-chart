@@ -2,6 +2,7 @@
   "name": "savings-chart",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://www.alexlande.com/savings-chart",
   "dependencies": {
     "basscss": "8.0.3",
     "basscss-responsive-padding": "1.1.0",
