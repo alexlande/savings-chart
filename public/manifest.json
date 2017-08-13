@@ -1,0 +1,15 @@
+{
+  "short_name": "Savings",
+  "name": "Savings Calculator",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#212631",
+  "background_color": "#171b22"
+}

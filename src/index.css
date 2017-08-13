@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Avenir, sans-serif;
+  background-color: #171b22;
+  color: #fff;
+}
+
+.bg-black {
+  background: #171b22;
+}
+
+.bg-blue {
+  background: #212631;
+}
+
+.topBorder {
+  border-top: 1px solid rgba(0,0,0,0.3);
+}
+
+.bottomBorder {
+  border-bottom: 1px solid rgba(0,0,0,0.3);
+}
