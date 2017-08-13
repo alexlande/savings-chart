@@ -3,6 +3,21 @@
   "name": "Savings Calculator",
   "icons": [
     {
+      "src": "icon-48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "icon-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
       "src": "favicon.ico",
       "sizes": "192x192",
       "type": "image/png"
