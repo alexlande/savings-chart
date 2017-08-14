@@ -5,6 +5,7 @@ export default ({
   interest
 }) => {
   const result = [];
+  const interestRate = interest / 100;
   let currentSavings = initialSavings;
 
   // Chart one year longer than the user entered to allow
@@ -15,7 +16,7 @@ export default ({
       y: Math.round(currentSavings)
     });
 
-    currentSavings = (currentSavings + annualSavings) * (1 + interest);
+    currentSavings = (currentSavings + annualSavings) * (1 + interestRate);
   };
 
   return result;

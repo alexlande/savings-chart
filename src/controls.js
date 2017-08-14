@@ -69,7 +69,7 @@ const Controls = ({
           name='interest'
           value={interest}
         >
-          Interest rate
+          Interest rate (%)
         </UpdatingField>
       </div>
     </form>

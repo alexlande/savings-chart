@@ -15,7 +15,7 @@ class App extends Component {
       years: 40,
       initialSavings: 0,
       annualSavings: 18000,
-      interest: 0.04,
+      interest: 4,
       highlighted: null,
       smallScreen: isSmallScreen()
     };
